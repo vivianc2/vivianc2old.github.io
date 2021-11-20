@@ -1,3 +1,7 @@
+---
+layout: newcss
+---
+
 # Home Page
 > Welcome to Vivian's Page
 
